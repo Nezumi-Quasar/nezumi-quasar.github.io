@@ -1,7 +1,7 @@
 name:               "Unhandled Exception"
 description:        "everyday a developer wakes up and starts coding"
 
-url:                ""
+#url:                ""
 #author:             "thinker3197"
 gravatar_hash:      "082fcf499b13603f2d604b0afaf7f89d"
 twitter:            "emagar83"
@@ -11,7 +11,7 @@ linkedin:           "emanuele-garofalo-ba12ab31"
 linkedin_url:       "http://bit.ly/2e8dXx8"
 disqus_shortname:   "thinker3197"
 
-background:         "../assets/imgs/deserve_bg.jpg"
+background:         "/assets/imgs/deserve_bg.jpg"
 resources:          "resources"
 
 paginate:           5
@@ -23,10 +23,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
+  - name:           "Slideshares"
+    href:           "/pages/slideshares"
   - name:           "Bio"
-    href:           "/bio"
+    href:           "/pages/bio"
 
 sass:
   style:            :compressed
