@@ -1,9 +1,12 @@
 ---
 ---
+@import 'bootstrap';
+
 
 $open-sans: 'Open Sans', sans-serif;
 $source-sans: "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
-
+$accent-color: #1B589C;
+$glacial-color: #e5e5e5;
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -50,7 +53,7 @@ a {
     transition: all 0.3s;
     &:hover,
     &:focus {
-        color: #EC407A;
+        color: $accent-color;
         text-decoration: dotted;
     }
 }
@@ -157,14 +160,14 @@ abbr {
 
 abbr[title] {
     cursor: help;
-    border-bottom: 1px dotted #e5e5e5;
+    border-bottom: 1px dotted $glacial-color;
 }
 
 blockquote {
     padding: 0 0 0 1.5rem;
     margin: 0 2rem 1rem 0;
     color: #999;
-    border-left: .5rem solid #e5e5e5;
+    border-left: .5rem solid $glacial-color;
     p:last-child {
         margin-bottom: 0;
     }
@@ -258,14 +261,14 @@ img {
 table {
     margin-bottom: 1rem;
     width: 100%;
-    border: 1px solid #e5e5e5;
+    border: 1px solid $glacial-color;
     border-collapse: collapse;
 }
 
 td,
 th {
     padding: .25rem .25rem;
-    border: 1px solid #e5e5e5;
+    border: 1px solid $glacial-color;
 }
 
 tbody tr:nth-child(odd) td,
@@ -375,22 +378,38 @@ tbody tr:nth-child(odd) th {
     }
 }
 
-.posts {
+
+
+.main-content {
     max-width: 38rem;
-    padding: 1.4rem 0.8rem;
+    // padding: 1.4rem 0.8rem;
     margin-left: auto;
     margin-right: auto;
     overflow: auto;
     @media (min-width: 38rem) {
         margin-top: 0;
         margin-left: 20%;
-        padding: 3%;
+        padding: 0%;
         min-width: 80%;
-        height: 800px;
+        height: 100%;
     }
 }
 
+
+
 .bloghead {
+    background-color: $glacial-color;
+    max-width: 38rem;
+    margin-left: auto;
+    margin-right: auto;
+    overflow: auto;
+    @media (min-width: 38rem) {
+        margin-top: 0;
+        margin-left: 20%;
+        padding: 0%;
+        min-width: 80%;
+        height: 100%;
+    }
     .bloghead-title {
         span {
             color: #BDBDBD;
@@ -406,7 +425,7 @@ tbody tr:nth-child(odd) th {
         }
         span {
             font-weight: 800;
-            color: #EC407A;
+            color: $accent-color;
             &:hover,
             &:focus {
                 color: #EC407A;

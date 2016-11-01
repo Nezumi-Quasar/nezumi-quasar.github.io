@@ -27,9 +27,12 @@ nav:
     href:           "/pages/slideshares"
   - name:           "Bio"
     href:           "/pages/bio"
+  - name:           "Publications"
+    href:           "/pages/publications"
 
 sass:
-  style:            :compressed
+  sass_dir: resources/css
+  style:    expanded
 
 defaults:
   -

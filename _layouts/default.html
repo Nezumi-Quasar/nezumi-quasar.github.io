@@ -3,7 +3,6 @@
 {% include head.html %}
 
 <body class="preload">
-    <div class="top"></div>
     <div class="profile" style="background-image: url({{ site.url }}{{ site.background }});">
         <a href="{{ site.url }}"> <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" /> </a>
         <a href="{{ site.url }}"> <h3>{{ site.name }}</h3></a>
@@ -36,7 +35,8 @@
             {% endif %}
         </ul>
     </div>
-    <div class="posts">
+    {% include header.html %}
+    <div class="main-content">
         {{ content }}
     </div>
 </body>
