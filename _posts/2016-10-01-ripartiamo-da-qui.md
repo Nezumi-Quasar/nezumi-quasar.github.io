@@ -3,6 +3,15 @@ layout: post
 title:  "Ripartiamo da qui"
 date:   2016-10-01 20:00:00 +0200
 categories: info
+published: true
+author: emanueleg
+comments: true
+date: 2016-10-01 20:00:00 +0200
+tags:
+categories:
+    - uncategorized
+permalink: /2016/10/01/ripartiamo-da-qui
+
 ---
 
 Riprendere a scrivere sul proprio blog, soprattutto dopo tanto tempo, è complicato. Penso che la discontinuità rispetto ai contenuti passati possa generare (almeno con me l'ha fatto) una sorta di **blocco dello scrittore**. Ma il blocco è lì non solo per *fermare* ma anche per rappresentare una sfida/ostacolo da superare per soddisfare il proprio desiderio di condividere. Il blocco poi si è fatto più grande, alimentato probabilmente dagli impegni incalzanti a livello lavorativo (anche perchè non è che si possa condividere solo "ricerca e sviluppo"...occorrono esempi calati nella realtà). 
