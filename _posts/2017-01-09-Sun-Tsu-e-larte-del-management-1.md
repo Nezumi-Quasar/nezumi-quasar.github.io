@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sun-Tsu e l'arte del management #1
+title: Sun-Tsu e l'arte del management &#35;1
 published: true
 author: nezumimc
 comments: true
