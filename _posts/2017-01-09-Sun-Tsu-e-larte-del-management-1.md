@@ -7,7 +7,6 @@ comments: true
 date: 2017-01-09 11:25:13
 tags:
     - Management
-    - Serialization
 categories:
     - uncategorized
 permalink: /2017/01/09/Sun-Tsu-e-larte-del-management-1

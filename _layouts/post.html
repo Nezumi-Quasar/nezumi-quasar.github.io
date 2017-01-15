@@ -7,10 +7,12 @@ layout: default
     <p>
       author: {{ page.author }} |
       <time>{{ page.date | date_to_string }}</time>
+      <br />
+      categories: {{ page.categories | array_to_sentence_string }} | tags: {{ page.tags | array_to_sentence_string }}
     </p>
   </div>
   {{ content }}
 </div>
-{% if site.disqus_shortname %}
+<!--{% if site.disqus_shortname %}
   {% include disqus_comments.html %}
-{% endif %}
+{% endif %}-->
