@@ -3,16 +3,11 @@
 {% include head.html %}
 
 <body class="preload">
-    <div class="profile" style="background-image: url({{ site.url }}{{ site.background }});">
-        <a href="{{ site.url }}"> <img src="http://www.gravatar.com/avatar/{{ site.gravatar_hash }}?s=140" class="img-circle" /> </a>
-        <a href="{{ site.url }}"> <h3>{{ site.name }}</h3></a>
-        <p>{{ site.description }}</p>
-        
-    </div>
+    {% include leftbar.html %}
     {% include header.html %}
-    <div class="main-content">
+    <!--<div class="main-content">-->
         {{ content }}
-    </div>
+    <!--</div>-->
 </body>
 <script type="text/javascript">
     window.onload = function(){

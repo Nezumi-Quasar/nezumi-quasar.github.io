@@ -25,9 +25,6 @@ html,
 body {
     margin: 0;
     padding: 0;
-    @media (min-width: 38em) {
-        overflow: hidden;
-    }
 }
 
 html {
@@ -365,21 +362,7 @@ tbody tr:nth-child(odd) th {
 
 
 
-.main-content {
-    max-width: 38rem;
-    // padding: 1.4rem 0.8rem;
-    margin-left: auto;
-    margin-right: auto;
-    // overflow: auto;
-    // overflow-y:scroll;
-    @media (min-width: 38rem) {
-        margin-top: 0;
-        margin-left: 20%;
-        padding: $navbar-height 15px;
-        min-width: 80%;
-        // height: 100%;
-    }
-}
+
 
 
 
@@ -433,6 +416,35 @@ tbody tr:nth-child(odd) th {
         margin-top: 1.3rem;
     }
 }
+
+.post {
+  h2 {
+      color: #32a22f
+  }   
+}
+
+.post-title {
+    color: #aa0000;
+}
+
+.post-date {
+
+}
+
+.content {
+    max-width: 38rem;
+    padding: 1.4rem 0.8rem;
+    margin-left: auto;
+    margin-right: auto;   
+    @media (min-width: 38rem) {
+        position: relative;
+        margin-top: 0;
+        margin-left: 20%;
+        padding: $navbar-height+20 15px;
+        min-width: 80%;
+    }
+}
+
 
 .highlight .hll {
     background-color: #ffffcc

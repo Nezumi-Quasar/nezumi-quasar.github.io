@@ -2,9 +2,12 @@
 layout: default
 ---
 <div class="content post">
-  <h1 class="post-title">{{ page.title }}</h1>
+  <h2 class="post-title">{{ page.title }}</h2>
   <div class="post-date">
-    <time>{{ page.date | date_to_string }}</time>
+    <p>
+      author: {{ page.author }} |
+      <time>{{ page.date | date_to_string }}</time>
+    </p>
   </div>
   {{ content }}
 </div>
