@@ -435,6 +435,14 @@ tbody tr:nth-child(odd) th {
   }   
 }
 
+.post-box {
+    border: 1px solid #424242 ;
+    border-radius: 3px;
+    @media (min-width: 38em) {
+        margin-bottom: 10px;
+        padding: 5px;
+    }
+}
 .post-title {
     color: #aa0000;
 }
