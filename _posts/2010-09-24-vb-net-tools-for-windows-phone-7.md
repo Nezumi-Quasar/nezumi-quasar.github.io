@@ -6,7 +6,7 @@ layout: post
 guid: https://nezwork.wordpress.com/?p=56
 permalink: /2010/09/24/vb-net-tools-for-windows-phone-7/
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - VM
   - windows phone

@@ -8,8 +8,10 @@ date: 2009-10-09 21:10:13
 tags:
     - linq
     - Except
+    - .net
 categories:
-    - uncategorized
+    - programming
+    - .net
 permalink: /2009/10/09/except-with-linq
 language: en
 ---

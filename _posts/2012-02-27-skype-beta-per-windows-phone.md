@@ -9,7 +9,7 @@ permalink: /2012/02/27/skype-beta-per-windows-phone/
 geo_public:
   - "0"
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - Beta
   - Release

@@ -6,7 +6,7 @@ layout: post
 guid: https://nezwork.wordpress.com/?p=64
 permalink: /2012/01/26/we-love-async-ugialtnet-2012/
 categories:
-  - Uncategorized
+  - events
 tags:
   - async
   - ugialt.net

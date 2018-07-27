@@ -9,7 +9,7 @@ categories:
   - .net
   - c#
 tags:
-  - .Net Framework
+  - .net
   - EventLog
   - Tips
 ---

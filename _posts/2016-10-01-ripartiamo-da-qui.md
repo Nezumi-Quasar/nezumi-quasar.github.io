@@ -9,7 +9,7 @@ comments: true
 date: 2016-10-01 20:00:00 +0200
 tags:
 categories:
-    - uncategorized
+    - announcement
 permalink: /2016/10/01/ripartiamo-da-qui
 
 ---

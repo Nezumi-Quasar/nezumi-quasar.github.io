@@ -5,7 +5,7 @@ author: Emanuele
 layout: post
 permalink: /2010/05/26/googlecosa-tireranno-fuori-domani/
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - Games
   - Google

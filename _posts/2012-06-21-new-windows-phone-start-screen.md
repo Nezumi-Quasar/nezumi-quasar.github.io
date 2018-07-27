@@ -8,7 +8,7 @@ date: 2012-06-21 10:06:54
 tags:
     - Windows Phone
 categories:
-    - uncategorized
+    - announcement
 permalink: /2012/06/21/new-windows-phone-start-screen
 ---
  
