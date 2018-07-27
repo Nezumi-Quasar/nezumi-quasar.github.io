@@ -1,25 +1,34 @@
-name:               "Unhandled Exception"
+title:               "Unhandled Exception"
 description:        "everyday a developer wakes up and starts coding"
 
-#url:                "blog.unhandledexception.it"
-#author:             "nezumi"
+
+author:
+  name: nezumi
+  #email: 
+  github: nezumi-quasar
+  twitter: emagar83
+  #pinterest: asd123
+  linkedin: emanuele-garofalo-ba12ab31
+  #bio: Your stylish, minimalist theme!
+  email_md5: 082fcf499b13603f2d604b0afaf7f89d
+
 gravatar_hash:      "082fcf499b13603f2d604b0afaf7f89d"
-twitter:            "emagar83"
-github:             "nezumi-quasar"
-linkedin:           "emanuele-garofalo-ba12ab31"
-
 linkedin_url:       "http://bit.ly/2e8dXx8"
-disqus_shortname:   "thinker3197"
-
+disqus:   ""
+#google_analytics:   not configured
 background:         "/assets/imgs/deserve_bg.jpg"
 resources:          "resources"
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+BASE_PATH: http://localhost:4000
 
 paginate:           10
 paginate_path:      "/page:num/"
 
-baseurl:            ""
-permalink:          /:year/:month/:day/:title/
-
+highlighter:        rouge
 markdown:           kramdown
 
 nav:
