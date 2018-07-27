@@ -5,7 +5,9 @@ author: emanuele
 layout: post
 permalink: /2010/05/12/voglio-un-eventsource-tutto-per-me/
 categories:
-  - Uncategorized
+  - Tech
+  - .net
+  - c#
 tags:
   - .Net Framework
   - EventLog
