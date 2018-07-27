@@ -34,6 +34,8 @@ Contro
   Non saprei come altro spiegarlo. Ciò che ho fatto quando ero dipendente è quello che faccio tutt'ora da freelance. Non so far finta di nulla se vedo qualcosa che sta per essere fatto in maniera sbagliata. Purtroppo questa cosa mi succede che io abbia o meno un ruolo a cui è richiesto di esprimersi a riguardo. Attenzione, non sto sopravvalutando la mia opinione anzi, ma semplicemente se vedo un errore non so fare a meno di dire che "forse se facessimo così lo eviteremmo, o almeno facciamo cosà e rimediamo". Questo può tradursi in fastidio soprattutto in clienti che non mi conoscono a fondo. Non necessariamente nei piani alti ma magari anche in sviluppatori che sono in odore di carriera e vorrebbero essere loro i riferimenti di tutto.
 * **La crisi del primo anno**
   Ma basterà quello che sto facendo? E così mi sono ritrovato a lavorare lo scorso anno ad agosto dalle 5 alle 10 di mattina in una piazzola di sosta panoramica in Sardegna prima di portare mia figlia al mare. L'ho fatto per il timore che non fosse abbastanza quello che avevo fatto fino ad allora e che avrei fatto da settembre. Il miglior consiglio che mi sono dato qui è stato "misurarmi" per capire se è reale o falso.
+* **Trova tempo per te stesso**
+  Un problema del tutto simile a quello precedente. L'essermi concentrato sugli aspetti professionali mi ha portato di nuovo a non aggiornare i contenuti del blog o fare sport. Dopo le ferie, avendo già preso le misure del lavoro, riavrò il mio tempo e lo userò per dargli il giusto valore.
 
 Come sopravvivo adesso:
 
