@@ -5,7 +5,7 @@ author: emanueleg
 layout: post
 permalink: /2012/02/16/technology-preview-windows-phone-e-kinect-per-xbox-360/
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - Kinect
   - Windows Phone

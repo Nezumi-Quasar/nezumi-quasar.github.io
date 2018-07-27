@@ -6,9 +6,9 @@ author: Emanuele
 layout: post
 permalink: /2010/05/18/enterprise-library-5/
 categories:
-  - Uncategorized
+  - announcement
 tags:
-  - .net framework
+  - .net
   - enterprise library
 language: en
 ---

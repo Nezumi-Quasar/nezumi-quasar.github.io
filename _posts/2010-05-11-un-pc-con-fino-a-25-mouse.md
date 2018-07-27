@@ -5,7 +5,7 @@ author: Emanueleg
 layout: post
 permalink: /2010/05/11/un-pc-con-fino-a-25-mouse/
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - MultiPoint Mouse
   - Release

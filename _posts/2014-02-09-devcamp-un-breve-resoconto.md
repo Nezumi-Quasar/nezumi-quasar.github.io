@@ -10,7 +10,7 @@ tags:
     - push notifications
     - windows 8
 categories:
-    - uncategorized
+    - events
 permalink: /2014/02/09/devcamp-un-breve-resoconto
 ---
 Venedì scorso insieme ad Antonio, Mauro, Tino e Salvatore ho preso parte ai Microsoft Dev Camp 2014 a Napoli. Nel pomeriggio di questa giornata abbiamo tenuto delle mini sessioni tecniche su varie tematiche:

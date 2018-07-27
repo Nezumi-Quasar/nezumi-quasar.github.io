@@ -9,7 +9,7 @@ tags:
     - Management
     - Sun-Tsu
 categories:
-    - uncategorized
+    - reflections
 permalink: /2017/01/09/Sun-Tsu-e-larte-del-management-1
 ---
 

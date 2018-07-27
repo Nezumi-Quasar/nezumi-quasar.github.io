@@ -9,8 +9,11 @@ tags:
     - pattern
     - singleton
     - thread-safe
+    - .net
+    - csharp
 categories:
-    - uncategorized
+    - programming
+    - .net
 permalink: /2009/11/02/except-with-linq
 language: en
 ---

@@ -1,22 +1,8 @@
 ---
 layout: default
 ---
-<article>
-<div class="content post">
-  <header>
-  <h1 class="post-title">{{ page.title }}</h1>
-  <div class="post-date">
-    <p>
-      author: {{ page.author }} |
-      Published <time pubdate="pubdate">{{ page.date | date_to_string }}</time>
-      <br />
-      categories: {{ page.categories | array_to_sentence_string }} | tags: {{ page.tags | array_to_sentence_string }}
-    </p>
-  </div>
-  </header>
-  {{ content }}
-</div>
-</article>
-<!--{% if site.disqus_shortname %}
-  {% include disqus_comments.html %}
-{% endif %}-->
+{% include post.html %}
+
+{% if site.disqus and page.comments %}
+    {% include disqus.html %}
+{% endif %}

@@ -6,10 +6,10 @@ author: Emanuele
 comments: true
 date: 2010-07-06 01:07:04
 tags:
-    - .Net Framework
+    - .net
     - Serialization
 categories:
-    - uncategorized
+    - programming
 permalink: /2010/07/06/datacontractserializer-vs-xmlserializer
 ---
 Serializzatore...quale scegliere e perché? 

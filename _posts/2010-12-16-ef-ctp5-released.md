@@ -5,7 +5,7 @@ author: Emanuele
 layout: post
 permalink: /2010/12/16/ef-ctp5-released/
 categories:
-  - Uncategorized
+  - announcement
 tags:
   - Entity Framework
   - Release

@@ -8,7 +8,7 @@ date: 2009-10-09 11:25:13
 tags:
     - Crystal report
 categories:
-    - uncategorized
+    - programming
 permalink: /2009/10/09/switch-case-using-crystal-report
 language: en
 ---

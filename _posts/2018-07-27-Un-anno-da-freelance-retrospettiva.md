@@ -9,6 +9,7 @@ tags:
     - Retrospettiva
 categories:
     - NOTEch
+    - reflections
 permalink: /2018/07/27/Un-Anno-Da-Freelance-Retrospettiva
 ---
 
